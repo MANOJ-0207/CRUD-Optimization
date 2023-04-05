@@ -1,0 +1,22 @@
+.btn-back
+{
+    margin-left: 30px;
+    margin-top: 30px;
+}
+.buttons-container{
+	margin-top: 100px;
+}
+form{
+    margin-left: 40px;
+    margin-top: 30px;
+}
+.heading{
+    text-align: center;
+    margin-top: 20px;
+}
+.heading-small
+{
+    text-align: left;
+    margin-top: 30px;
+    margin-left: 40px;
+}
